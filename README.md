@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firmanekXD
 - 👀 I’m interested in Young Leosia Bogini
-- 🌱 I’m currently learning how to use your mom and c#
+- 🌱 I’m currently learning how to use your mom and Web-Dev
 - 💞️ I’m looking to collaborate on Leokadia
 - 📫 How to reach me Intercity
 <!---
